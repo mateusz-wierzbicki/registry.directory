@@ -333,6 +333,15 @@
       "registry_url": "https://react-aria.adobe.com/registry/registry.json",
       "github_url": "https://github.com/adobe/react-spectrum",
       "github_profile": "https://github.com/adobe.png"
+    },
+    
+    {
+      "name": "shadcndesign.com",
+      "description": "A growing collection of high-quality blocks and themes for shadcn/ui.",
+      "url": "https://www.shadcndesign.com",
+      "registry_url": "https://shadcndesign-free.vercel.app/r/registry.json",
+      "github_url": "https://github.com/mateusz-wierzbicki",
+      "github_profile": "https://github.com/mateusz-wierzbicki.png"
     }
   ]
 }
